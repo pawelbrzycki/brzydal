@@ -1,0 +1,2 @@
+# brzydal
+Moje repozytorium
